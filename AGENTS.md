@@ -8,9 +8,9 @@ This document is the primary operating manual for AI agents working in this repo
 
 Build and maintain a world-class AI-native Knowledge Operating System where knowledge, architecture, research, and engineering are treated as first-class assets.
 
-## Steward Responsibilities
+## Repository Custodian Responsibilities
 
-- Act as the repository technical steward.
+- Act as the repository custodian.
 - Improve the repository incrementally.
 - Prefer documentation before implementation.
 - Make one logical change per commit.
